@@ -1,43 +1,57 @@
-# Aiki-hunting-full
+# Aiki-hunting — Job Scraper Template
 
-Full-time robotics/mechatronics job hunt for **Muhammad Idris** (DACH), driven by a
-weekly Claude Code cloud routine. This is the full-time counterpart to the internship-era
-hunt — same machinery, opposite stage filter.
+A clean, shareable **AI job-search scraper** for the German/DACH market, driven by
+[Claude Code](https://docs.anthropic.com/en/docs/claude-code). It searches six job boards
+plus watched-company ATS feeds, deduplicates across runs, and ranks new matches against
+your profile — interactively or on a schedule.
 
-## What runs
+> This is a **template**. Fork it, fill in your profile, and make it yours. It ships with no
+> personal data — just the scraper machinery and example config to customize.
 
-A scheduled cloud routine (`job-search-fulltime-weekly`) fires **every Monday at 08:00
-Europe/Berlin** and:
+## What it does
 
-1. Reads `job_scraper/seen_jobs.json` as the dedup baseline.
-2. Scrapes six boards (Arbeitnow, Stepstone, Indeed DE/AT/CH, LinkedIn, Glassdoor, Xing)
-   plus watched-company ATS feeds (Isar Aerospace, Brainlab, MOIA, Wandelbots) over a
-   ~10-day window, so each Monday run captures everything posted across the prior week.
-3. Keeps **full-time only** roles in **DACH** (see filters below) and ranks fit
-   (broad robotics = HIGH; adjacent engineering = MEDIUM).
-4. Updates `seen_jobs.json` and creates a **Gmail draft** (never sends) to the candidate
-   with the new matches.
+- Searches **six boards** — Arbeitnow (free), Stepstone, Indeed, LinkedIn, Xing, Glassdoor —
+  through portable Bun CLIs that all emit the same normalized JSON.
+- Fetches **watched-company ATS feeds** (Greenhouse / SmartRecruiters / Personio / …) directly.
+- **Deduplicates** every run against `job_scraper/seen_jobs.json` so you only see new postings.
+- **Ranks fit** (high / medium / low) against the profile in `CLAUDE.md`.
+- Optional: **salary benchmarking** and a CSV **application tracker**.
 
-The routine prompt is self-contained — it does not depend on skill files in this repo.
+## Quick start
 
-## Filters
+1. **Fork & clone** this repo.
+2. Install prerequisites and configure — see **[SETUP.md](SETUP.md)**.
+3. Edit **`CLAUDE.md`** (your profile) and **`.claude/skills/job-scraper/search-queries.md`**
+   (your roles, keywords, locations, ATS feeds) — or ask Claude to fill them from your CV.
+4. In the repo, run `claude`, then `/scrape` or `/scrape broad`.
 
-- **Stage:** full-time / permanent / entry-to-mid only (Festanstellung, unbefristet,
-  Vollzeit, Direkteinstieg, Absolvent, Graduate, Junior). Excludes Werkstudent, Praktikum,
-  Intern, Ausbildung, dual study, Thesis/Masterarbeit, and leadership-only roles.
-- **Location:** Germany + Austria + Switzerland (on-site/hybrid; remote only if DACH-based).
-- **Fit:** HIGH = ROS 2, AMR/AGV, robotics software (C++/Python), perception/SLAM,
-  sensor fusion, controls, digital twin, simulation/sim-to-real (Omniverse/Isaac Sim/
-  Gazebo/Unity), embedded robotics. MEDIUM = adjacent embedded/automation/test/systems.
+## Boards
 
-## Files
+| Board | Auth | Best for |
+|-------|------|----------|
+| **Arbeitnow** | none (free) | tech, startup, remote, English-speaking, visa-sponsorship roles |
+| **Stepstone** | `APIFY_TOKEN` | broad coverage, all sectors, Germany's largest board |
+| **Indeed** | `APIFY_TOKEN` | broadest aggregator, deep German coverage, cheapest |
+| **LinkedIn** | `APIFY_TOKEN` | professional / tech / corporate (bills min 150 results/run) |
+| **Xing** | `APIFY_TOKEN` | professional / management roles, DACH-wide |
+| **Glassdoor** | `APIFY_TOKEN` | listings with company ratings + salary data |
 
-- `job_scraper/seen_jobs.json` — deduplication baseline. Keyed by job URL/id, each entry
-  records `first_seen`, `fit`, and `status` (`new`/`skipped`). Starts empty `{}`.
-  Tracked in git (not gitignored) so the baseline persists between runs.
+Arbeitnow always runs for free; the other five use pay-per-result [Apify](https://apify.com)
+actors and run only when `APIFY_TOKEN` is set.
 
-## Note on persistence
+## Structure
 
-The cloud routine can only push its `seen_jobs.json` updates back here if the Claude
-GitHub app is authorized for the `sabhack` org. Until then, commits made in the cloud
-session are local to that run and this baseline must be maintained manually.
+```
+.agents/skills/            # job-board search CLIs (Bun/TypeScript)
+.claude/skills/job-scraper/  # the scraper skill (SKILL.md) + search-queries.md
+job_scraper/seen_jobs.json # dedup baseline (starts {"seen": {}})
+job_search_tracker.csv     # optional application tracker (header only)
+tools/, salary_lookup.py   # optional salary-benchmark helpers
+CLAUDE.md                  # your profile (drives fit assessment)
+SETUP.md                   # full setup guide
+```
+
+## Credit
+
+Job-board CLI framework based on the open-source
+[ai-job-search](https://github.com/MadsLorentzen/ai-job-search) template. See `LICENSE`.

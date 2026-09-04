@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+bun.lock
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Secrets / API tokens (never commit these)
+.env
+.env.*
+!.env.example
+
+# Personal data (never commit these)
+salary_data.json
+job_scraper/seen_jobs.json
+job_scraper/*.md
+
+# Personal job search tracking (keep the header-only template, ignore a filled-in copy)
+# job_search_tracker.csv   # uncomment if you want to keep your tracker private
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Skills lock (auto-generated)
+skills-lock.json
+
+# Agent usage logs, but keep the job-board skill tools (.agents/skills/)
+.agents/*
+!.agents/skills/

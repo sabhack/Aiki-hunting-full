@@ -1,0 +1,19 @@
+{
+  "name": "arbeitnow-cli",
+  "version": "1.0.0",
+  "description": "CLI for searching German/EU jobs on Arbeitnow.com (free public API)",
+  "type": "module",
+  "main": "src/cli.ts",
+  "bin": {
+    "arbeitnow": "src/cli.ts"
+  },
+  "scripts": {
+    "start": "bun run src/cli.ts",
+    "test": "bun test --timeout 30000",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/bun": "latest"
+  }
+}

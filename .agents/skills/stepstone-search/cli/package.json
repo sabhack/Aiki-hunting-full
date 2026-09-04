@@ -1,0 +1,19 @@
+{
+  "name": "stepstone-cli",
+  "version": "1.0.0",
+  "description": "CLI for searching Stepstone.de jobs via the Apify actor (requires APIFY_TOKEN)",
+  "type": "module",
+  "main": "src/cli.ts",
+  "bin": {
+    "stepstone": "src/cli.ts"
+  },
+  "scripts": {
+    "start": "bun run src/cli.ts",
+    "test": "bun test --timeout 90000",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/bun": "latest"
+  }
+}
