@@ -2213,6 +2213,951 @@
       "fit": "HIGH",
       "first_seen": "2026-09-14",
       "status": "new"
+    },
+    "https://www.stepstone.de/jobs--Robotics-Software-Integration-Engineer-m-f-d-Berlin-Motor-Ai-GmbH--14506057-inline.html": {
+      "title": "Robotics Software Integration Engineer (m/f/d)",
+      "company": "Motor Ai GmbH",
+      "location": "Berlin",
+      "source": "Stepstone",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.xing.com/jobs/verl-softwareentwickler-funktionale-sicherheit-schwerpunkt-robotik-157867869": {
+      "title": "Softwareentwickler (m/w/d) Funktionale Sicherheit – Schwerpunkt Robotik",
+      "company": "Beckhoff Automation GmbH & Co. KG",
+      "location": "Verl",
+      "source": "Xing",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.xing.com/jobs/bielefeld-robotics-engineer-kuka-abb-fanuc-157919600": {
+      "title": "Robotics Engineer - KUKA / ABB / Fanuc (w/m/d)",
+      "company": "Brunel GmbH NL Bielefeld",
+      "location": "Bielefeld",
+      "source": "Xing",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.xing.com/jobs/paderborn-application-engineer-robotik-automatisierung-157976757": {
+      "title": "Application Engineer (m/w/d) - Robotik & Automatisierung",
+      "company": "Unchained Robotics",
+      "location": "Paderborn",
+      "source": "Xing",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.xing.com/jobs/augsburg-ingenieur-automatisierungstechnik-glasfaser-robotik-157790793": {
+      "title": "Ingenieur Automatisierungstechnik - Glasfaser / Robotik (m/w/d)",
+      "company": "Workwise GmbH",
+      "location": "Augsburg",
+      "source": "Xing",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.xing.com/jobs/muenchen-robot-deployment-engineer-153593946": {
+      "title": "Robot Deployment Engineer (w/m/x)",
+      "company": "Magazino GmbH",
+      "location": "München",
+      "source": "Xing",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.xing.com/jobs/hamburg-specialist-digital-twin-simulation-157778392": {
+      "title": "Specialist, Digital Twin Simulation (m/f/d)",
+      "company": "SEMIKRON International GmbH",
+      "location": "Hamburg",
+      "source": "Xing",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.xing.com/jobs/boeblingen-engineer-digital-engineering-158032494": {
+      "title": "Engineer for Digital Engineering (m/f/d)",
+      "company": "Advantest Europe GmbH",
+      "location": "Böblingen",
+      "source": "Xing",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.xing.com/jobs/boeblingen-expert-digital-engineering-158032495": {
+      "title": "Expert for Digital Engineering (m/f/d)",
+      "company": "Advantest Europe GmbH",
+      "location": "Böblingen",
+      "source": "Xing",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.xing.com/jobs/muenchen-software-berater-digital-threads-workshops-modellierung-digital-twin-digital-thread-mwd-157858510": {
+      "title": "Software-Berater digital threads | Workshops, Modellierung, digital twin, digital thread (mwd)",
+      "company": "Vesterling AG",
+      "location": "München",
+      "source": "Xing",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.xing.com/jobs/verl-technical-support-engineer-motion-control-157772346": {
+      "title": "Technical Support Engineer (m/w/d) Motion Control",
+      "company": "Beckhoff Automation GmbH & Co. KG",
+      "location": "Verl",
+      "source": "Xing",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=95f803ff3ae1be21": {
+      "title": "Robotics Integrations Engineer (m/f/d) - Gigafactory Berlin-Brandenburg",
+      "company": "Tesla",
+      "location": "Grünheide (Mark)",
+      "source": "Indeed DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=73b64ae5a23cc23a": {
+      "title": "Control System Engineer (m/f/d)",
+      "company": "FRANKA ROBOTICS GmbH",
+      "location": "München",
+      "source": "Indeed DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=bacf356150babd76": {
+      "title": "Application Engineer (f/m/d)",
+      "company": "TACTILIA robotics",
+      "location": "München",
+      "source": "Indeed DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=401fffde3d7d6b58": {
+      "title": "Path Planning & Swarm Autonomy Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Weßling",
+      "source": "Indeed DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=9dd04c02de0ec274": {
+      "title": "Softwaredeveloper Visual Based Navigation (m/w/d)",
+      "company": "Rheinmetall",
+      "location": "Braunschweig",
+      "source": "Indeed DE / Xing",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=c62ebd2a0622a2ce": {
+      "title": "Softwaredeveloper AI-based Imageprocessing (m/w/d)",
+      "company": "Rheinmetall",
+      "location": "Braunschweig",
+      "source": "Indeed DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=6701b3149d8eff01": {
+      "title": "Project Coordinator AGV and AMR (all gender)",
+      "company": "EP Equipment Europe",
+      "location": "Köln",
+      "source": "Indeed DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=06d2575b6d779e50": {
+      "title": "Mandarin speaking Project Engineer Automation AGV and AMR (all gender)",
+      "company": "EP Equipment Europe",
+      "location": "Köln",
+      "source": "Indeed DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=d9c73343b04df1f1": {
+      "title": "Mechanical Engineer (f/m/d)",
+      "company": "TACTILIA robotics",
+      "location": "München",
+      "source": "Indeed DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://de.indeed.com/viewjob?jk=31ad471441a5b1c7": {
+      "title": "Embedded Software Engineer (m/w/d)",
+      "company": "GRIMME Landmaschinenfabrik SE & Co. KG",
+      "location": "Osnabrück",
+      "source": "Indeed DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://wandelbots.jobs.personio.de/job/2797384": {
+      "title": "System Software Engineer (gn) Cloud & Simulation",
+      "company": "Wandelbots GmbH",
+      "location": "Dresden",
+      "source": "Indeed DE / Wandelbots ATS",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://at.indeed.com/viewjob?jk=7ffb8d0d0f0f7e50": {
+      "title": "Software Engineer - Multi-Agent Path Finding & Fleet Optimization (m/f/d)",
+      "company": "KNAPP Industry Solutions GmbH",
+      "location": "Zwaring, Austria",
+      "source": "Indeed AT",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://at.indeed.com/viewjob?jk=6dedabfa7f54ca57": {
+      "title": "Experienced Software Engineer (f/m/d) for Industrial Vision Systems",
+      "company": "Austrian Institute of Technology",
+      "location": "Wien, Austria",
+      "source": "Indeed AT",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=2f428d9d4ec12722": {
+      "title": "Research Engineer, Robotics & Embodied AI",
+      "company": "Meta",
+      "location": "Zürich, Switzerland",
+      "source": "Indeed CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=4b74973edda805a0": {
+      "title": "Robotics Software Engineer",
+      "company": "Ecolab",
+      "location": "Witterswil, Switzerland",
+      "source": "Indeed CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=138ba6a86a725676": {
+      "title": "End Effector Integration Engineer",
+      "company": "Consulteer",
+      "location": "Zürich, Switzerland",
+      "source": "Indeed CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=f81e76d31804de84": {
+      "title": "Machine Learning Engineer - Spatial AI",
+      "company": "Flyability",
+      "location": "Paudex, Switzerland",
+      "source": "Indeed CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=9dc01d457c315bd6": {
+      "title": "Reinforcement Learning Expert - Humanoid (Mensch)",
+      "company": "Neura Robotics",
+      "location": "Zürich, Switzerland",
+      "source": "Indeed CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=bf645cfed4bd85ac": {
+      "title": "Applied Machine Learning Engineer",
+      "company": "Destinus",
+      "location": "Zürich, Switzerland",
+      "source": "Indeed CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=fc70f64afc77fcb9": {
+      "title": "Lifecycle SW Engineer 80 - 100 % (w/m/d)",
+      "company": "Hamilton Company",
+      "location": "Bonaduz, Switzerland",
+      "source": "Indeed CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=a1a7e3e3a84d28eb": {
+      "title": "Technical Support Engineer 80 - 100 % (w/m/d)",
+      "company": "Hamilton Company",
+      "location": "Bonaduz, Switzerland",
+      "source": "Indeed CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=8d17a0b3386dfa35": {
+      "title": "ML/Data Infrastructure Engineer",
+      "company": "Flyability",
+      "location": "Paudex, Switzerland",
+      "source": "Indeed CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=25128197ba7f5734": {
+      "title": "Automation Engineer – Magnet Industrialisation",
+      "company": "Proxima Fusion",
+      "location": "Zürich, Switzerland",
+      "source": "Indeed CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://ch.indeed.com/viewjob?jk=e1ecb74c464584ab": {
+      "title": "Solution Architect - Power & Utilities",
+      "company": "ANYbotics",
+      "location": "Zürich, Switzerland",
+      "source": "Indeed CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4848769101": {
+      "title": "GNC Engineer (m/f/d)",
+      "company": "Isar Aerospace",
+      "location": "Parsdorf, Bavaria, Germany",
+      "source": "Isar Aerospace ATS",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4923491101": {
+      "title": "GNC Engineer - Mission Analysis (m/f/d)",
+      "company": "Isar Aerospace",
+      "location": "Ottobrunn, Bavaria, Germany",
+      "source": "Isar Aerospace ATS",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Alpine Eagle - Robotics Engineer - Agent Control & UAV Autonomy)": {
+      "title": "Robotics Engineer - Agent Control & UAV Autonomy (m/w/d)",
+      "company": "Alpine Eagle",
+      "location": "Munich, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Ekumen - Software Engineer - Roboticist)": {
+      "title": "Software Engineer - Roboticist",
+      "company": "Ekumen",
+      "location": "Munich, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (prognum Automotive - Entwicklungsingenieur Humanoide Robotik)": {
+      "title": "Entwicklungsingenieur Humanoide Robotik (m/w/d/x)",
+      "company": "prognum Automotive GmbH",
+      "location": "Stuttgart, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Stealth Physical AI - Roboticist Hands)": {
+      "title": "Roboticist (Hands)",
+      "company": "Stealth Physical AI",
+      "location": "Munich, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (funktechnologies - Entwicklungsingenieur Autonome Robotik)": {
+      "title": "Entwicklungsingenieur Software / Embedded Systems – Autonome Robotik",
+      "company": "funktechnologies",
+      "location": "Reutlingen, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (MOTOR Ai - Motion Planning Engineer)": {
+      "title": "Motion Planning Engineer (m/f/d)",
+      "company": "MOTOR Ai",
+      "location": "Berlin, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Helsing - Software Engineer Autonomous Air Systems)": {
+      "title": "Software Engineer - Autonomous Air Systems",
+      "company": "Helsing",
+      "location": "Munich, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (AI Futures - Robotics Modelling Simulation Engineer Digital Twin)": {
+      "title": "Robotics Modelling & Simulation Engineer — Digital Twin (Simulation Focus)",
+      "company": "AI Futures",
+      "location": "Munich, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (OHB SE - AOCS GNC Engineer Hardware Testing)": {
+      "title": "AOCS & GNC Engineer Hardware & Testing (m/f/d)",
+      "company": "OHB SE",
+      "location": "Bremen, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Airbus Defence and Space - System Engineer Modelling Simulation)": {
+      "title": "System Engineer Modelling & Simulation (d/f/m)",
+      "company": "Airbus Defence and Space",
+      "location": "Immenstaad am Bodensee, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Quantum Systems - Flight Control State Estimation Engineer)": {
+      "title": "Flight Control & State Estimation Engineer (m/f/d)",
+      "company": "Quantum Systems",
+      "location": "Wessling, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Bertrandt - Entwicklungsingenieur Mechatronik Regelungstechnik)": {
+      "title": "Entwicklungsingenieur Mechatronik (m/w/d) (Schwerpunkt Dynamik und Regelungstechnik)",
+      "company": "Bertrandt Group",
+      "location": "Oberkochen, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Bertrandt - Entwicklungsingenieur HiL SiL Echtzeitsimulation)": {
+      "title": "Entwicklungsingenieur HiL/SiL für Antriebs-, Fahrwerkssysteme und Echtzeitsimulation (m/w/d)",
+      "company": "Bertrandt Group",
+      "location": "Ingolstadt, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Airbus - AGGP2027 Graduate Expert Automation AI-Driven Development)": {
+      "title": "AGGP2027 - Graduate Expert in Automation and AI-Driven Development",
+      "company": "Airbus",
+      "location": "Stuttgart, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Siemens Graduate Program Digital Industries Motion Control)": {
+      "title": "Gestalte deine Zukunft im Siemens Graduate Program Deutschland für Digital Industries, Motion Control, R&D Software Engineering Systems (w/m/d)",
+      "company": "Siemens",
+      "location": "Erlangen, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (TGW Logistics - Embedded Firmware Developer Mobile Robotics)": {
+      "title": "Embedded Firmware Developer (C) - Smart Pocket / Mobile Robotics (M/F/D)*",
+      "company": "TGW Logistics",
+      "location": "Wels, Austria",
+      "source": "LinkedIn AT",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (TechTree - Perception Engineer)": {
+      "title": "Perception Engineer at AI-powered physical security & robotics startup",
+      "company": "TechTree",
+      "location": "Zurich, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Harmattan AI - GNC Engineer)": {
+      "title": "GNC Engineer",
+      "company": "Harmattan AI",
+      "location": "Zurich, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (NEURA Robotics - Locomotion Whole-Body Control Engineer Humanoid)": {
+      "title": "Locomotion & Whole-Body Control Engineer - Humanoid (Mensch)",
+      "company": "NEURA Robotics",
+      "location": "Zurich, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (NEURA Robotics - Robot Platform Engineer Humanoid)": {
+      "title": "Robot Platform Engineer - Humanoid (Mensch)",
+      "company": "NEURA Robotics",
+      "location": "Zurich, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (NEURA Robotics - SWE in Test Robotics Middleware Humanoid)": {
+      "title": "Software Engineer in Test, Robotics Middleware & Systems - Humanoid (human)",
+      "company": "NEURA Robotics",
+      "location": "Zurich, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Hexagon Robotics - Robotics Solutions Engineer)": {
+      "title": "Robotics Solutions Engineer",
+      "company": "Hexagon Robotics",
+      "location": "Zurich, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Swiss Robotics Advanced Technologies - Robotics Engineer Autonomy)": {
+      "title": "Robotics Engineer / Autonomy",
+      "company": "Swiss Robotics & Advanced Technologies",
+      "location": "Winterthur, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Agile Robots - Forward Deployed Engineer Robotics)": {
+      "title": "Forward Deployed Engineer for Robotics",
+      "company": "Agile Robots SE",
+      "location": "Munich, Germany",
+      "source": "LinkedIn DE",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (EV Group - Simulation Digital Solutions Scientist)": {
+      "title": "Simulation & Digital Solutions Scientist (m/w/x)",
+      "company": "EV Group",
+      "location": "Sankt Florian am Inn, Austria",
+      "source": "LinkedIn AT",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Mikron Automation - Controls Engineer Specialist)": {
+      "title": "Controls Engineer Specialist",
+      "company": "Mikron Automation",
+      "location": "Boudry, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (ENWAY - Embedded Software Engineer)": {
+      "title": "Embedded Software Engineer (f/m/d)",
+      "company": "ENWAY a Bucher Company",
+      "location": "Niederweningen, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "HIGH",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (TruPhysics - IT Gaming Engineer Robotik)": {
+      "title": "IT Gaming Engineer - Robotik mwd",
+      "company": "TruPhysics",
+      "location": "Stuttgart, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (TruPhysics - Automatisierungsingenieurin)": {
+      "title": "Automatisierungsingenieur:in (MWD)",
+      "company": "TruPhysics",
+      "location": "Stuttgart, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Altamira - Embedded Engineer)": {
+      "title": "Embedded Engineer",
+      "company": "Altamira",
+      "location": "Hamburg, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (CMBLU Energy - Automation Engineer)": {
+      "title": "Automation Engineer (all genders)",
+      "company": "CMBLU Energy",
+      "location": "Alzenau, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (EICKHOFF - SPS-Programmierer Entwicklungsingenieur Automatisierung)": {
+      "title": "SPS-Programmierer / Entwicklungsingenieur Automatisierung (m/w/d) Anlagenbau",
+      "company": "EICKHOFF Personal GmbH",
+      "location": "Düsseldorf, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (8R - Automatisierungsingenieur)": {
+      "title": "Automatisierungsingenieur (m/w/d)",
+      "company": "8R",
+      "location": "Stuttgart, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (EGYM - Electrical Engineer Motor Control)": {
+      "title": "Electrical Engineer - Motor Control (m/f/d)",
+      "company": "EGYM",
+      "location": "Munich, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (SALT AND PEPPER - Entwicklungsingenieur Embedded Software)": {
+      "title": "Entwicklungsingenieur Embedded Software, all genders",
+      "company": "SALT AND PEPPER Group",
+      "location": "Bremen, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Koerber Technologies - Softwareentwickler Automatisierungssysteme)": {
+      "title": "Softwareentwickler (m/w/d) Automatisierungssysteme",
+      "company": "Körber Technologies",
+      "location": "Schwarzenbek, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (JD.COM - Field Application Engineer Warehousing Automation)": {
+      "title": "Field Application Engineer-Warehousing Automation",
+      "company": "JD.COM",
+      "location": "Oberhausen, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (ProMinent - Entwicklungsingenieur Embedded Software)": {
+      "title": "Entwicklungsingenieur (m/w/d) Embedded Software",
+      "company": "ProMinent Group",
+      "location": "Heidelberg, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Actana - Embedded Software Entwickler)": {
+      "title": "Embedded Software Entwickler (all gender)",
+      "company": "Actana Consulting Services GmbH",
+      "location": "Aalen, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (INVENSITY - Embedded Software Systems Consultant)": {
+      "title": "Embedded Software & Systems Consultant (m/w/d)",
+      "company": "INVENSITY",
+      "location": "Wiesbaden, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (B. Braun - Embedded Software Entwickler Medizinprodukte)": {
+      "title": "Embedded Software Entwickler (w/m/d) C / C++ für aktive Medizinprodukte",
+      "company": "B. Braun Group",
+      "location": "Melsungen, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (MBRAUN - Automatisierungsingenieurin)": {
+      "title": "Automatisierungsingenieur:in",
+      "company": "MBRAUN",
+      "location": "Garching, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Fraunhofer IPK - Wissenschaftlicher Mitarbeiter Robotische Handhabungstechnik)": {
+      "title": "Wissenschaftlicher Mitarbeiter (m,w,d): Robotische Handhabungstechnik",
+      "company": "Fraunhofer IPK",
+      "location": "Berlin, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (P3 - Consultant Robotics Embodied AI)": {
+      "title": "Consultant (m/w/d) - Robotics & Embodied AI",
+      "company": "P3",
+      "location": "Stuttgart, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Roboterly - Robotics Field Technical Support Specialist)": {
+      "title": "Robotics Field & Technical Support Specialist (m/w/d)",
+      "company": "Roboterly GmbH",
+      "location": "Olpe, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (SYSKRON - AI Developer Industrial Control Applications)": {
+      "title": "AI Developer - Industrial Control Applications (all genders)",
+      "company": "SYSKRON GmbH",
+      "location": "Regensburg, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (SLF Oberflaechentechnik - Verfahrensingenieur robotisierte Beschichtungstechnik)": {
+      "title": "Verfahrensingenieur für robotisierte Beschichtungstechnik (m/w/d) Vollzeit",
+      "company": "SLF Oberflächentechnik GmbH",
+      "location": "Emsdetten, Germany",
+      "source": "LinkedIn DE",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (jobcourier.ch - Applikations-Ingenieur Automations Robotersysteme)": {
+      "title": "Applikations-Ingenieur für Automations- und Robotersysteme (m/w/d)100%",
+      "company": "jobcourier.ch",
+      "location": "Lucerne, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Lam Research - Konstrukteurin Automatisierung)": {
+      "title": "Konstrukteur:in Automatisierung (all genders)",
+      "company": "Lam Research",
+      "location": "Salzburg, Austria",
+      "source": "LinkedIn AT",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Lam Research - Junior Konstrukteurin Maschinenbau Automatisierung)": {
+      "title": "Junior Konstrukteur:in Maschinenbau/Automatisierung (all genders)",
+      "company": "Lam Research",
+      "location": "Salzburg, Austria",
+      "source": "LinkedIn AT",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Experis Switzerland - Development Engineer Automation Antriebstechnik)": {
+      "title": "Development Engineer Automation & Antriebstechnik",
+      "company": "Experis Switzerland",
+      "location": "Zurich, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Syntegon - Software Engineer Automation)": {
+      "title": "Software Engineer -  Automation (m/w/d)",
+      "company": "Syntegon",
+      "location": "Beringen, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Mettler-Toledo - Software Engineer Integration Automation)": {
+      "title": "Software Engineer Integration & Automation",
+      "company": "Mettler-Toledo International, Inc",
+      "location": "Greifensee, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Hamilton - Automation Specialist)": {
+      "title": "Automation Specialist 80 - 100 % (w/m/d)",
+      "company": "Hamilton",
+      "location": "Bonaduz, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Empa - System-Engineer Cell Culture Automation)": {
+      "title": "System-Engineer Cell Culture Automation 80 - 100%",
+      "company": "Empa",
+      "location": "St Gallen, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Hexagon Robotics - Robotics MLOps Data Engineer)": {
+      "title": "Robotics MLOps & Data Engineer (f/m/d)",
+      "company": "Hexagon Robotics",
+      "location": "Zurich, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (ALTEN - Autonomous Driving Test Delivery Engineer)": {
+      "title": "Autonomous Driving Test Delivery Engineer",
+      "company": "ALTEN",
+      "location": "St Gallen, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Oerlikon - Industrial Software Automation Engineer)": {
+      "title": "Industrial Software & Automation Engineer (gn)",
+      "company": "Oerlikon",
+      "location": "Wohlen, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Lonza - Automation Engineer)": {
+      "title": "Automation Engineer 80-100%",
+      "company": "Lonza",
+      "location": "Basel, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Werren Thomann - Automation Engineer Systemintegration Inbetriebnahme)": {
+      "title": "Automation Engineer Systemintegration & Inbetriebnahme",
+      "company": "Werren & Thomann GmbH",
+      "location": "Sulgen, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Amazon - Regional Automation Engineer IntlRME)": {
+      "title": "Regional Automation Engineer, Amazon Reliability Maintenance Engineering - IntlRME",
+      "company": "Amazon",
+      "location": "Mex, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (PackSys Global - Automation Software Engineer)": {
+      "title": "Automation Software Engineer",
+      "company": "PackSys Global",
+      "location": "Rüti, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (OK JOB SA - Ingenieur Automation Developpement Beckhoff)": {
+      "title": "Ingénieur Automation / développement Beckhoff",
+      "company": "OK JOB SA",
+      "location": "La Chaux-de-Fonds, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (BOBST - Field Service Commissioning Engineer Automation Motion Control)": {
+      "title": "Field Service & Commissioning Engineer – Automation & Motion Control",
+      "company": "BOBST",
+      "location": "Mex, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Koerber Pharma - Software Engineer Automation)": {
+      "title": "Software Engineer Automation (m/w/d)",
+      "company": "Körber Pharma",
+      "location": "Grabs, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (VAT GROUP - Development Engineer Automation Control)": {
+      "title": "Development Engineer - Automation and Control",
+      "company": "VAT GROUP",
+      "location": "St Gallen, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (Koerber Pharma - Automation Engineer Assembly Labelling)": {
+      "title": "Automation Engineer Assembly / Labelling (m/f/d)",
+      "company": "Körber Pharma",
+      "location": "Grabs, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs (HOUSE OF ABY - Ingenieur Automation Industrielle)": {
+      "title": "Ingénieur Automation Industrielle X/ F/H",
+      "company": "HOUSE OF ABY",
+      "location": "Lausanne, Switzerland",
+      "source": "LinkedIn CH",
+      "fit": "MEDIUM",
+      "first_seen": "2026-09-21",
+      "status": "new"
     }
   }
 }
