@@ -9341,6 +9341,1257 @@
    "fit": "MEDIUM",
    "first_seen": "2026-10-26",
    "status": "new"
+  },
+  "https://www.stepstone.de/jobs--Simulation-Engineer-gn-NVIDIA-Omniverse-01159-Dresden-Wandelbots-GmbH--14633188-inline.html": {
+   "title": "Simulation Engineer (gn) NVIDIA Omniverse",
+   "company": "Wandelbots GmbH",
+   "location": "01159 Dresden",
+   "source": "Stepstone",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://career.quantum-systems.com/l/en/o/sensor-fusion-engineer-mfd?source=Indeed": {
+   "title": "Sensor Fusion Engineer (m/f/d)",
+   "company": "Quantum-Systems GmbH",
+   "location": "Weßling",
+   "source": "Indeed DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/de-laboringenieur-robotik-158467793": {
+   "title": "Laboringenieur*in Robotik (w/m/d)",
+   "company": "Technische Hochschule Mannheim",
+   "location": "DE",
+   "source": "Xing",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/dresden-automation-engineer-gn-industrial-robotics-software-development-158782899": {
+   "title": "Automation Engineer (gn) Industrial Robotics & Software Development",
+   "company": "Instaffo GmbH (Wandelbots)",
+   "location": "Dresden",
+   "source": "Xing",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/pforzheim-inbetriebnahme-ingenieur-roboter-messtechnik-pforzheim-1622-158862011": {
+   "title": "Inbetriebnahme-Ingenieur (m/w/d) Roboter- und Messtechnik in Pforzheim",
+   "company": "Brüggen Engineering GmbH",
+   "location": "Pforzheim",
+   "source": "Xing",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/ulm-robotik-embedded-software-entwickler-155317012": {
+   "title": "Robotik Embedded Software Entwickler (m/w/d)",
+   "company": "expo3 GmbH",
+   "location": "Ulm",
+   "source": "Xing",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/bayreuth-mobile-robotics-technical-project-specialist-robotics-158857132": {
+   "title": "Mobile Robotics Technical Project Specialist (m/w/d) - Robotics",
+   "company": "Stäubli",
+   "location": "Bayreuth",
+   "source": "Xing",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/dortmund-entwicklungsingenieur-elektronik-robotik-158837206": {
+   "title": "Entwicklungsingenieur Elektronik / Robotik (m/w/d)",
+   "company": "Brunel GmbH NL Dortmund",
+   "location": "Dortmund",
+   "source": "Xing",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/duesseldorf-entwicklungsingenieur-elektrotechnik-robotik-158837777": {
+   "title": "Entwicklungsingenieur Elektrotechnik Robotik (m/w/d)",
+   "company": "Brunel GmbH NL Stuttgart",
+   "location": "Düsseldorf",
+   "source": "Xing",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/specialist-industrial-automation-robotics-m-w-d-at-alstom-grid-4485966846?trk=public_jobs_topcard-title": {
+   "title": "Specialist Industrial Automation & Robotics (m/w/d)",
+   "company": "Alstom Grid",
+   "location": "North Rhine-Westphalia, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/mechanical-engineer-robotics-at-cell-labs-4484310147?trk=public_jobs_topcard-title": {
+   "title": "Mechanical Engineer  | Robotics",
+   "company": "Cell Labs",
+   "location": "Berlin, Berlin, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/uav-robotics-integration-field-engineer-hardware-at-se3-labs-4482500952?trk=public_jobs_topcard-title": {
+   "title": "UAV / Robotics Integration Field Engineer - Hardware",
+   "company": "SE3 Labs",
+   "location": "Erding, Bavaria, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/robotics-systems-architect-in-at-koenig-bauer-4483547576?trk=public_jobs_topcard-title": {
+   "title": "Robotics Systems Architect:in",
+   "company": "Koenig & Bauer",
+   "location": "Würzburg, Bavaria, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/entwicklungsingenieur-m-w-d-%E2%80%93-elektronik-robotik-at-the-adecco-group-4481302471?trk=public_jobs_topcard-title": {
+   "title": "Entwicklungsingenieur (m/w/d) – Elektronik & Robotik",
+   "company": "The Adecco Group",
+   "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/sensor-fusion-engineer-%E2%80%93-multi-sensor-integration-m-f-d-at-alpine-eagle-4476758146?trk=public_jobs_topcard-title": {
+   "title": "Sensor Fusion Engineer – Multi-Sensor Integration (m/f/d)",
+   "company": "Alpine Eagle",
+   "location": "Munich, Bavaria, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/applikationsingenieur-m-w-d-f%C3%BCr-mobile-robotik-in-der-nl-west-siegen-at-kuka-4480327959?trk=public_jobs_topcard-title": {
+   "title": "Applikationsingenieur (m/w/d) für mobile Robotik in der NL West/Siegen",
+   "company": "KUKA",
+   "location": "Siegen, North Rhine-Westphalia, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/robot-learning-engineer-human-motion-data-m-f-d-at-ease-4483928531?trk=public_jobs_topcard-title": {
+   "title": "Robot Learning Engineer, Human Motion Data (m/f/d)",
+   "company": "EASE",
+   "location": "Garching, Bavaria, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/wissenschaftliche-mitarbeiterin-oder-wissenschaftlicher-mitarbeiter-w-m-d-robotik-%E2%80%93-steuerungssoftware-und-konstruktion-at-hochschule-f%C3%BCr-angewandte-wissenschaften-kempten-4483745414?trk=public_jobs_topcard-title": {
+   "title": "Wissenschaftliche Mitarbeiterin oder Wissenschaftlicher Mitarbeiter (w/m/d) Robotik – Steuerungssoftware und Konstruktion",
+   "company": "Hochschule für angewandte Wissenschaften Kempten",
+   "location": "Kempten, Bavaria, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/robot-learning-engineer-at-rohlik-group-4460348081?trk=public_jobs_topcard-title": {
+   "title": "Robot Learning Engineer",
+   "company": "Rohlik Group",
+   "location": "Berlin, Berlin, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/robotics-engineer-at-areo-gmbh-4485313352?trk=public_jobs_topcard-title": {
+   "title": "Robotics Engineer",
+   "company": "AREO GmbH",
+   "location": "Bremen, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/systemingenieur-mechatronische-aktuatorsysteme-robotik-m-w-d-at-timut-4484472081?trk=public_jobs_topcard-title": {
+   "title": "Systemingenieur Mechatronische Aktuatorsysteme Robotik (m/w/d)",
+   "company": "TIMUT",
+   "location": "Frankfurt am Main, Hesse, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/assistant-with-master-in-robotics-at-university-of-applied-sciences-and-arts-of-southern-switzerland-4484423682?trk=public_jobs_topcard-title": {
+   "title": "Assistant with Master in Robotics",
+   "company": "University of Applied Sciences and Arts of Southern Switzerland",
+   "location": "Lugano, Ticino, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/robotics-electrical-engineer-at-cdds-4484212704?trk=public_jobs_topcard-title": {
+   "title": "(Robotics) Electrical Engineer",
+   "company": "CDDS",
+   "location": "Zurich, Zurich, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/embedded-software-entwickler-regelungstechnik-oberkochen-252000": {
+   "title": "Embedded Software-Entwickler (m/w/d) Regelungstechnik",
+   "company": "encontec GmbH",
+   "location": "Oberkochen , Baden-Württemberg, Deutschland",
+   "source": "Arbeitnow",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.arbeitnow.ch/jobs/companies/wingtra-2/mechatronic-design-test-engineer-zurich-385014": {
+   "title": "Mechatronic Design & Test Engineer",
+   "company": "Wingtra 2",
+   "location": "Zürich",
+   "source": "Arbeitnow",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.stepstone.de/jobs--Embedded-RUST-Engineer-m-f-d-Wessling-Quantum-Systems-GmbH--14691262-inline.html": {
+   "title": "Embedded RUST Engineer (m/f/d)",
+   "company": "Quantum-Systems GmbH",
+   "location": "Wessling",
+   "source": "Stepstone",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/oberkochen-entwicklungsingenieur-mechatronik-qualifizierung-158855061": {
+   "title": "Entwicklungsingenieur Mechatronik und Qualifizierung (m/w/d)",
+   "company": "Bertrandt AG",
+   "location": "Oberkochen",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/solothurn-mechatronik-elektroingenieur-test-inbetriebnahme-80-100-158811589": {
+   "title": "Mechatronik- / Elektroingenieur, Test / Inbetriebnahme 80-100%",
+   "company": "ABS Personalberatung AG",
+   "location": "Solothurn (CH)",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/boeblingen-ingenieur-mechanische-konstruktion-test-systemintegration-158944143": {
+   "title": "Ingenieur (m/w/d) für mechanische Konstruktion, Test und Systemintegration",
+   "company": "Advantest Europe GmbH",
+   "location": "Böblingen",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/aalen-entwicklungsingenieur-mechatronik-qualifizierung-1111-650-158880722": {
+   "title": "Entwicklungsingenieur Mechatronik und Qualifizierung (m/w/d) 1111-650",
+   "company": "PAPEVE GmbH",
+   "location": "Aalen",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/immenstaad-bodensee-simulation-modelling-engineer-158678417": {
+   "title": "Simulation & Modelling Engineer (d/f/m)",
+   "company": "Airbus",
+   "location": "Immenstaad am Bodensee",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/hannover-simulation-software-development-engineer-ref97697z-157325737": {
+   "title": "Simulation Software Development Engineer (m/f/d)",
+   "company": "Continental AG",
+   "location": "Hannover",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/dresden-system-software-engineer-gn-cloud-simulation-158782896": {
+   "title": "System Software Engineer (gn) Cloud & Simulation",
+   "company": "Wandelbots (via Instaffo)",
+   "location": "Dresden",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/erlangen-simulationsingenieur-energieversorgungsnetze-158852405": {
+   "title": "Simulationsingenieur für Energieversorgungsnetze (m/w/d)",
+   "company": "Bertrandt AG",
+   "location": "Erlangen",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/ottobrunn-muenchen-softwareentwickler-simulationssysteme-157696428": {
+   "title": "Softwareentwickler C++ für Simulationssysteme (m/w/d)",
+   "company": "univativ",
+   "location": "Ottobrunn bei München",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/oberpfaffenhofen-ingenieur-kontaktdynamik-flexibler-mehrkoerpersysteme-158829725": {
+   "title": "Ingenieur/in (w/m/d) - Kontaktdynamik flexibler Mehrkörpersysteme",
+   "company": "DLR",
+   "location": "Oberpfaffenhofen",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/mechatronics-engineer-m-f-d-at-atmos-space-cargo-4483286299?trk=public_jobs_topcard-title": {
+   "title": "Mechatronics Engineer (m/f/d)",
+   "company": "ATMOS Space Cargo",
+   "location": "Greater Karlsruhe Area",
+   "source": "LinkedIn-DE",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/development-engineer-mechatronics-with-focus-on-matlab-simulation-tools-m-f-x-at-zeiss-group-4484940611?trk=public_jobs_topcard-title": {
+   "title": "Development Engineer Mechatronics with focus on MATLAB Simulation Tools (m/f/x)",
+   "company": "ZEISS Group",
+   "location": "Oberkochen, Baden-Württemberg, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/mechatronik-konstrukteur-m-w-d-at-witte-barskamp-gmbh-co-kg-4482512950?trk=public_jobs_topcard-title": {
+   "title": "Mechatronik - Konstrukteur (m / w / d)",
+   "company": "Witte Barskamp GmbH & Co. KG",
+   "location": "Bleckede, Lower Saxony, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/mechatronics-development-engineer-at-myn-4484087154?trk=public_jobs_topcard-title": {
+   "title": "Mechatronics Development Engineer",
+   "company": "Myn",
+   "location": "Oberkochen, Baden-Württemberg, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/mechatronics-engineer-at-optimus-search-4483448072?trk=public_jobs_topcard-title": {
+   "title": "Mechatronics Engineer",
+   "company": "Optimus Search",
+   "location": "Jena, Thuringia, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/embedded-software-engineer-m-w-d-%E2%80%93-autonomous-driving-at-teoresi-group-4483480159?trk=public_jobs_topcard-title": {
+   "title": "Embedded Software Engineer (m/w/d) – Autonomous Driving",
+   "company": "Teoresi Group",
+   "location": "Greater Munich Metropolitan Area",
+   "source": "LinkedIn-DE",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/embedded-software-engineer-80-100-%25-w-m-d-at-hamilton-4474824463?trk=public_jobs_topcard-title": {
+   "title": "Embedded Software Engineer 80 - 100 % (w/m/d)",
+   "company": "Hamilton",
+   "location": "Bonaduz, Graubünden, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/systems-controls-engineer-ii-at-bausch-health-companies-inc-4483298629?trk=public_jobs_topcard-title": {
+   "title": "Systems/Controls Engineer II",
+   "company": "Bausch Health Companies Inc.",
+   "location": "Mex, Vaud, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/softwareingenieur-in-f%C3%BCr-embedded-systems-at-bucher-hydraulics-4483857880?trk=public_jobs_topcard-title": {
+   "title": "Softwareingenieur:in für Embedded Systems",
+   "company": "Bucher Hydraulics",
+   "location": "Neuheim, Zug, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/software-engineer-embedded-ai-m-f-d-at-sonova-group-4484701855?trk=public_jobs_topcard-title": {
+   "title": "Software Engineer Embedded AI (m/f/d)",
+   "company": "Sonova Group",
+   "location": "Stäfa, Zurich, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://join.com/companies/riiicocom/16859371-3d-data-operator-w-m-d-or-3d-scans-to-digital-twins-of-real-factories": {
+   "title": "3D Data Operator (w/m/d) | 3D Scans to Digital Twins of Real Factories",
+   "company": "RIIICO",
+   "location": "Düsseldorf",
+   "source": "Indeed DE",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/verl-softwareentwickler-robotik-funktionale-sicherheit-157867869": {
+   "title": "Softwareentwickler (m/w/d) C++, Robotik und Funktionale Sicherheit",
+   "company": "Beckhoff Automation GmbH & Co. KG",
+   "location": "Verl",
+   "source": "Xing",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/trier-applikations-serviceingenieur-intralogistik-mobile-robotik-158935574": {
+   "title": "Applikations- und Serviceingenieur Intralogistik & Mobile Robotik (m/w/d)",
+   "company": "Jungbluth Firmengruppe",
+   "location": "Trier",
+   "source": "Xing",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://de.linkedin.com/jobs/view/it-consultant-digital-threads-kunden-workshops-modellierung-digital-twin-digital-thread-mwd-at-vesterling-ag-4403409538?trk=public_jobs_topcard-title": {
+   "title": "IT Consultant digital threads | Kunden-Workshops, Modellierung, digital twin, digital thread (mwd)",
+   "company": "Vesterling AG",
+   "location": "Bavaria, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://ch.linkedin.com/jobs/view/robotics-software-engineer-at-mesh-robotic-construction-4483960999?trk=public_jobs_topcard-title": {
+   "title": "Robotics Software Engineer",
+   "company": "MESH - Robotic Construction",
+   "location": "Birr, Aargau, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://ch.linkedin.com/jobs/view/slam-software-engineer-rivr-at-amazon-4476396943?trk=public_jobs_topcard-title": {
+   "title": "SLAM Software Engineer, RIVR",
+   "company": "Amazon",
+   "location": "Zurich, Zurich, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://ch.linkedin.com/jobs/view/robotics-product-engineer-at-mesh-robotic-construction-4483930644?trk=public_jobs_topcard-title": {
+   "title": "Robotics Product Engineer",
+   "company": "MESH - Robotic Construction",
+   "location": "Birr, Aargau, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "HIGH",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/berlin-simulation-engineer-158098803": {
+   "title": "Simulation Engineer",
+   "company": "Helsing",
+   "location": "Berlin",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/dresden-system-software-engineer-gn-cloud-simulation-158952355": {
+   "title": "System Software Engineer (gn) Cloud & Simulation",
+   "company": "Wandelbots GmbH",
+   "location": "Dresden",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://de.linkedin.com/jobs/view/software-embedded-developer-at-proactive-global-4474438632?trk=public_jobs_topcard-title": {
+   "title": "Software Embedded Developer",
+   "company": "Proactive Global",
+   "location": "Regensburg, Bavaria, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://at.linkedin.com/jobs/view/mechatronics-engineer-at-snap-inc-4476790735?trk=public_jobs_topcard-title": {
+   "title": "Mechatronics Engineer",
+   "company": "Snap Inc.",
+   "location": "Vienna, Vienna, Austria",
+   "source": "LinkedIn-AT",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.arbeitnow.com/jobs/companies/superchat/revenue-operations-engineer-ai-automation-berlin-berlin-413012": {
+   "title": "Revenue Operations Engineer | AI & Automation (m/f/d)",
+   "company": "Superchat",
+   "location": "Berlin, Berlin",
+   "source": "Arbeitnow",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/systems-engineer-excavator-automation-zurich-5810": {
+   "title": "Systems Engineer  (Excavator Automation)",
+   "company": "Gravis Robotics",
+   "location": "Zurich",
+   "source": "Arbeitnow",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.arbeitnow.ch/jobs/companies/twojobs/projektleiter-in-automation-80-100-zurich-178987": {
+   "title": "Projektleiter/in Automation 80 - 100 %",
+   "company": "two.jobs",
+   "location": "Zürich",
+   "source": "Arbeitnow",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952430101": {
+   "title": "Additive Manufacturing Operator (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4695891101": {
+   "title": "Avionics Technician (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4206414101": {
+   "title": "Avionics Technician or Electronics Technician  (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005412101": {
+   "title": "Close Protection Officer (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4828025101": {
+   "title": " CNC-Machining Support Technician  (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974682101": {
+   "title": "Combustion Equipment Engineer (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4794793101": {
+   "title": "Composite Technician (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5008931101": {
+   "title": "Crisis & Business Continuity Management Specialist (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5015861101": {
+   "title": "DevOps Engineer (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5009977101": {
+   "title": "Environmental Management Specialist (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005466101": {
+   "title": "Facility Access Management Specialist (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4695889101": {
+   "title": "Fluggerätmechaniker (m/w/d)",
+   "company": "Isar Aerospace",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4864857101": {
+   "title": "Fluids Engineer (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5012604101": {
+   "title": "Fluid Systems Engineer, Propulsion (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4714971101": {
+   "title": "Internal Logistic Specialist (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5016191101": {
+   "title": "IT Network Administrator (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5016110101": {
+   "title": "IT Support Specialist (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974490101": {
+   "title": "Launcher Assembly Technician (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4864330101": {
+   "title": "Launch Operations Engineer (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4864332101": {
+   "title": "Launch Operations Engineer - Process & Coordination (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5009959101": {
+   "title": "LCA & Environmental Data Specialist (f/m/d) ",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4206511101": {
+   "title": "Luftfahrttechniker oder Industrielektroniker (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5022215101": {
+   "title": "Manufacturing Engineer (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950964101": {
+   "title": "Mechanical Ground Systems Engineer (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4715001101": {
+   "title": "Mitarbeiter interne Logistik (m/w/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5004398101": {
+   "title": "Multimedia Systems & Visual Content Specialist (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940784101": {
+   "title": "NDT Inspector (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Ottobrunn, Bavaria, Germany; Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952790101": {
+   "title": "Operations Planner (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5020780101": {
+   "title": "PA Engineer - Additive Manufacturing (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5022220101": {
+   "title": "Product Assurance Engineer (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4814866101": {
+   "title": "Production Mechanic Post Processing / Nachbearbeitung (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5011474101": {
+   "title": "Propulsion Design Engineer, Propulsion (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4857035101": {
+   "title": "Recovery Operations Engineer (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005435101": {
+   "title": "Security Systems Specialist (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4844867101": {
+   "title": "Structural Manufacturing Technician (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4980390101": {
+   "title": "Structures Analysis Engineer, Launch Vehicle Structure (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4844862101": {
+   "title": "Struktur Fertigungstechniker (m/w/d)",
+   "company": "Isar Aerospace",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4941905101": {
+   "title": "Technical Buyer (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005403101": {
+   "title": " Transport Security Specialist (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005490101": {
+   "title": "Travel Security Specialist (f/m/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974666101": {
+   "title": "Turbopump Turbine Engineer (m/f/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4700434101": {
+   "title": "Zerspanungsmechaniker / CNC-Dreher (m/w/d)",
+   "company": "Isar Aerospace",
+   "location": "Parsdorf, Bavaria, Germany",
+   "source": "ATS:Isar Aerospace",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000158250685": {
+   "title": "Medical Devices Product Security Engineer",
+   "company": "Brainlab",
+   "location": "Waldkirch, BW, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000158237360": {
+   "title": "Clinical Affairs Medical Expert (MD) ",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000158021877": {
+   "title": "Export Assistant ",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000157977969": {
+   "title": "Management Associate - Sales EMEA",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000157976320": {
+   "title": "Sales Operation Assistant",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000157046745": {
+   "title": "QM Associate – Product Registrations (part-time 20h/week)",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000156604129": {
+   "title": "(Junior) Steuerreferent:in",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000155684199": {
+   "title": "Management Associate (Mandarin Chinese speaking)",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000155493389": {
+   "title": "Software Engineer – R&D Orthopedic Surgery",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000155488029": {
+   "title": "Produktionsingenieur:in Medizintechnik",
+   "company": "Brainlab",
+   "location": "Waldkirch, BW, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000155243270": {
+   "title": "(Advanced) Project Engineer - Orthopedics ",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000151031341": {
+   "title": "Support Specialist Imaging Systems - Germany ",
+   "company": "Brainlab",
+   "location": "Frankfurt am Main, HE, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000135740449": {
+   "title": "HR Payroll Specialist (m/w/d)",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://jobs.smartrecruiters.com/Brainlab/744000131677598": {
+   "title": "Buchhalter:in  ",
+   "company": "Brainlab",
+   "location": "Munich, BY, Germany",
+   "source": "ATS:Brainlab",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/moia/jobs/4967879101": {
+   "title": "Unsolicited Application – Business (all genders) ",
+   "company": "MOIA",
+   "location": "Berlin, Germany; Hamburg, Germany; Hannover, Germany; Munich, Germany; Wolfsburg, Germany",
+   "source": "ATS:MOIA",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://job-boards.eu.greenhouse.io/moia/jobs/4967861101": {
+   "title": "Unsolicited Application – Tech & Product (all genders) ",
+   "company": "MOIA",
+   "location": "Berlin, Germany; Hamburg, Germany; Hannover, Germany; Munich, Germany; Wolfsburg, Germany",
+   "source": "ATS:MOIA",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.stepstone.de/jobs--Roboterprogrammierer-m-w-d-mit-der-Option-zur-bernahme-Ensdorf-Saar-team-KRAFT-GmbH--14689045-inline.html": {
+   "title": "Roboterprogrammierer (m/w/d) mit der Option zur Übernahme",
+   "company": "team KRAFT GmbH",
+   "location": "Ensdorf/Saar",
+   "source": "Stepstone",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.stepstone.de/jobs--Roboterprogrammierer-m-w-d-Hohenstein-Ernstthal-MW-Robotics-Germany-GmbH--14706571-inline.html": {
+   "title": "Roboterprogrammierer (m/w/d)",
+   "company": "MW Robotics Germany GmbH",
+   "location": "Hohenstein-Ernstthal",
+   "source": "Stepstone",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.stepstone.de/jobs--Berechnungsingenieur-m-w-d-Bremen-Randstad-Deutschland-GmbH-Co-KG--14704492-inline.html": {
+   "title": "Berechnungsingenieur (m/w/d)",
+   "company": "Randstad Deutschland GmbH & Co. KG",
+   "location": "Bremen",
+   "source": "Stepstone",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.glassdoor.com/job-listing/j?jl=1010311489070": {
+   "title": "Entwicklungsingenieur / R&D Engineer (m/w/d) - Fluid Connectors",
+   "company": "Stäubli",
+   "location": "Norderstedt",
+   "source": "Glassdoor DE",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.glassdoor.com/job-listing/j?jl=1010310161718": {
+   "title": "System Integration Engineer (Mensch)",
+   "company": "Neura Robotics GmbH",
+   "location": "Riederich",
+   "source": "Glassdoor DE",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.glassdoor.com/job-listing/j?jl=1010310161716": {
+   "title": "First Level Support Engineer (Mensch)",
+   "company": "Neura Robotics GmbH",
+   "location": "Riederich",
+   "source": "Glassdoor DE",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.glassdoor.com/job-listing/j?jl=1010310161671": {
+   "title": "Cloud Service Engineer",
+   "company": "Neura Robotics GmbH",
+   "location": "Riederich",
+   "source": "Glassdoor DE",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/karlsruhe-entwickler-robotic-process-automation-157824656": {
+   "title": "Entwickler (m/w/d) Robotic Process Automation",
+   "company": "Serviscope AG",
+   "location": "Karlsruhe",
+   "source": "Xing",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/dohna-mechatroniker-automatisierung-sondermaschinenbau-158807024": {
+   "title": "Mechatroniker - Automatisierung / Sondermaschinenbau (m/w/d)",
+   "company": "KRÖNING - Automation",
+   "location": "Dohna",
+   "source": "Xing",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/oppach-roboterprogrammierer-158815134": {
+   "title": "Roboterprogrammierer (m/w/d)",
+   "company": "ATN Hölzel GmbH",
+   "location": "Oppach",
+   "source": "Xing",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/munich-automation-safety-software-engineer-158804979": {
+   "title": "Automation & Safety Software Engineer (f/m/d)",
+   "company": "Magazino GmbH",
+   "location": "München",
+   "source": "Xing",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/verl-roboter-programmierer-158808872": {
+   "title": "Roboter-Programmierer (m/w/d)",
+   "company": "Hüttenhölscher Maschinenbau GmbH & Co. KG",
+   "location": "Verl",
+   "source": "Xing",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/verl-softwareentwickler-funktionale-sicherheit-schwerpunkt-engineering-software-tools-157862413": {
+   "title": "Softwareentwickler (m/w/d) Funktionale Sicherheit – Engineering-Software und -Tools",
+   "company": "Beckhoff Automation GmbH & Co. KG",
+   "location": "Verl",
+   "source": "Xing",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/kematen-tirol-mechatroniker-158826459": {
+   "title": "Mechatroniker:in",
+   "company": "MIMM engineers GmbH",
+   "location": "Kematen in Tirol (AT)",
+   "source": "Xing",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://www.xing.com/jobs/waldkirch-mechatroniker-robotik-158739802": {
+   "title": "Mechatroniker (m/w/d) Robotik",
+   "company": "EMIS Electrics GmbH",
+   "location": "Waldkirch",
+   "source": "Xing",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://de.linkedin.com/jobs/view/vehicle-integration-and-test-engineer-m-w-d-%E2%80%93-autonomous-driving-at-teoresi-group-4483479196?trk=public_jobs_topcard-title": {
+   "title": "Vehicle Integration and Test Engineer (m/w/d) – Autonomous Driving",
+   "company": "Teoresi Group",
+   "location": "Greater Munich Metropolitan Area",
+   "source": "LinkedIn-DE",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://de.linkedin.com/jobs/view/promotion-end-to-end-trainable-system-for-autonomous-driving-with-introspection-at-bosch-4484876173?trk=public_jobs_topcard-title": {
+   "title": "Promotion - End-to-End Trainable System for Autonomous Driving with Introspection",
+   "company": "Bosch",
+   "location": "Renningen, Baden-Württemberg, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://de.linkedin.com/jobs/view/software-engineer-autonomous-air-systems-at-helsing-4350287405?trk=public_jobs_topcard-title": {
+   "title": "Software Engineer - Autonomous Air Systems",
+   "company": "Helsing",
+   "location": "Berlin, Berlin, Germany",
+   "source": "LinkedIn-DE",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://ch.linkedin.com/jobs/view/autonomy-engineer-ml-dl-infrastructure-at-skydio-4420213389?trk=public_jobs_topcard-title": {
+   "title": "Autonomy Engineer - ML & DL Infrastructure",
+   "company": "Skydio",
+   "location": "Zurich, Zurich, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://ch.linkedin.com/jobs/view/autonomy-engineer-deep-learning-infrastructure-at-skydio-4420209490?trk=public_jobs_topcard-title": {
+   "title": "Autonomy Engineer - Deep Learning Infrastructure",
+   "company": "Skydio",
+   "location": "Zurich, Zurich, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
+  },
+  "https://ch.linkedin.com/jobs/view/autonomous-driving-test-delivery-engineer-at-alten-4473110944?trk=public_jobs_topcard-title": {
+   "title": "Autonomous Driving Test Delivery Engineer",
+   "company": "ALTEN",
+   "location": "St Gallen, Switzerland",
+   "source": "LinkedIn-CH",
+   "fit": "DROP",
+   "first_seen": "2026-11-02",
+   "status": "skipped"
   }
  }
 }
