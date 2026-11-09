@@ -10592,6 +10592,645 @@
    "fit": "DROP",
    "first_seen": "2026-11-02",
    "status": "skipped"
+  },
+  "https://www.arbeitnow.com/jobs/companies/roboyo/senior-automation-engineer-uipath-munich-27512": {
+   "title": "Senior Automation Engineer  - UiPath",
+   "company": "roboyo",
+   "location": "Munich",
+   "source": "Arbeitnow",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://www.stepstone.de/jobs--Senior-Robotics-Machine-Learning-Engineer-m-f-d-Mnchen-Quantum-Systems-GmbH--14669666-inline.html": {
+   "title": "Senior Robotics & Machine Learning Engineer (m/f/d)",
+   "company": "Quantum-Systems GmbH",
+   "location": "München",
+   "source": "Stepstone",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://www.stepstone.de/jobs--Entwicklungsingenieur-Mechatronik-Medizintechnik-m-w-d-Hamburg-Spiegelberg-GmbH-Co-KG--14675876-inline.html": {
+   "title": "Entwicklungsingenieur Mechatronik Medizintechnik (m/w/d)",
+   "company": "Spiegelberg GmbH & Co. KG",
+   "location": "Hamburg",
+   "source": "Stepstone",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.indeed.com/viewjob?jk=cb55227e063aa11e": {
+   "title": "JUNIOR ROBOTICS SOFTWARE ENGINEER (M/W/D)",
+   "company": "Reply",
+   "location": "München",
+   "source": "Indeed",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.indeed.com/viewjob?jk=67ed4cb96a9d24e7": {
+   "title": "Senior Mechanical Engineer, Robotic Hands",
+   "company": "Neura Robotics",
+   "location": "München",
+   "source": "Indeed",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.indeed.com/viewjob?jk=4f16505d1bf293f5": {
+   "title": "Robotics Software Engineer - Generalist (m/f/d)",
+   "company": "autonomous-teaming",
+   "location": "80807 München",
+   "source": "Indeed",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.indeed.com/viewjob?jk=2df4dfa7973fd0c2": {
+   "title": "Machine Learning Engineer - Robotics (w/m/d)",
+   "company": "Mana Robotics GmbH",
+   "location": "01097 Dresden",
+   "source": "Indeed",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.indeed.com/viewjob?jk=06eabc9aaacaf704": {
+   "title": "Embedded Software Engineer, Robotics",
+   "company": "Agile Professionals",
+   "location": "Berlin",
+   "source": "Indeed",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.indeed.com/viewjob?jk=2248f9af3c686722": {
+   "title": "Senior Robotic Systems Engineer",
+   "company": "Clera",
+   "location": "München",
+   "source": "Indeed",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.indeed.com/viewjob?jk=079b12fe9df48fbf": {
+   "title": "Robotics Software Engineer - Counter-Drone Systems (m/f/d)",
+   "company": "autonomous-teaming",
+   "location": "80807 München",
+   "source": "Indeed",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://www.glassdoor.com/job-listing/j?jl=1010318506315": {
+   "title": "JUNIOR ROBOTICS SOFTWARE ENGINEER (M/W/D)",
+   "company": "REPLY S.p.A",
+   "location": "Munich",
+   "source": "Glassdoor",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/berlin-senior-robotics-engineer-state-estimation-vio-sensor-fusion-158852898": {
+   "title": "Senior Robotics Engineer - State Estimation, VIO & Sensor Fusion",
+   "company": "Promethion Industries",
+   "location": "Berlin",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/berlin-senior-event-based-robotics-research-engineer-vio-motion-estimation-159046923": {
+   "title": "Senior Event-Based Robotics Research Engineer — VIO & Motion Estimation",
+   "company": "Promethion Industries",
+   "location": "Berlin",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/muenchen-software-robotics-engineer-navigation-158966926": {
+   "title": "Software Robotics Engineer - Navigation (m/f/d)",
+   "company": "Idealworks GmbH",
+   "location": "München",
+   "source": "Xing",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://www.xing.com/jobs/berlin-senior-aerial-robotics-control-engineer-uas-learned-control-158852743": {
+   "title": "Senior Aerial Robotics & Control Engineer - UAS / Learned Control",
+   "company": "Promethion Industries",
+   "location": "Berlin",
+   "source": "Xing",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/drives-mechatronics-engineer-w-m-d-at-abb-4486999671?trk=public_jobs_topcard-title": {
+   "title": "Drives & Mechatronics Engineer (w/m/d)",
+   "company": "ABB",
+   "location": "Cottbus, Brandenburg, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/drives-mechatronics-engineer-f-m-d-at-abb-4488188202?trk=public_jobs_topcard-title": {
+   "title": "Drives & Mechatronics Engineer (f/m/d)",
+   "company": "ABB",
+   "location": "Cottbus, Brandenburg, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/electronics-engineer-robotics-at-cell-labs-4486664470?trk=public_jobs_topcard-title": {
+   "title": "Electronics Engineer | Robotics",
+   "company": "Cell Labs",
+   "location": "Berlin, Berlin, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/embedded-system-engineer-all-gender-at-expleo-group-4463709833?trk=public_jobs_topcard-title": {
+   "title": "Embedded System Engineer (all gender)",
+   "company": "Expleo Group",
+   "location": "Salzgitter, Lower Saxony, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/utilization-of-physical-ai-for-fast-and-efficient-implementation-of-robotic-assisted-processes-in-diagnostic-and-pharmaceutical-raw-material-production-m-f-d-at-roche-4479207614?trk=public_jobs_topcard-title": {
+   "title": "Utilization of Physical AI for Fast and Efficient Implementation of Robotic-Assisted Processes in Diagnostic and Pharmaceutical Raw Material Production (m/f/d)",
+   "company": "Roche",
+   "location": "Penzberg, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/solution-specialist-process-design-simulation-d-f-m-at-arculus-%E2%80%93-a-jungheinrich-company-4484642704?trk=public_jobs_topcard-title": {
+   "title": "Solution Specialist - Process Design & Simulation (d/f/m)",
+   "company": "arculus – a Jungheinrich company",
+   "location": "Munich, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/forward-deployed-robotics-engineer-at-anton-robotics-4487108044?trk=public_jobs_topcard-title": {
+   "title": "Forward Deployed Robotics Engineer",
+   "company": "Anton Robotics",
+   "location": "Munich, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/forward-deployed-engineer-mobile-robotics-start-up-munich-at-ai-futures-4484667402?trk=public_jobs_topcard-title": {
+   "title": "Forward Deployed Engineer | Mobile Robotics Start-up | Munich",
+   "company": "AI Futures",
+   "location": "Munich, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/senior-firmware-engineer-amazon-robotics-at-amazon-4470476821?trk=public_jobs_topcard-title": {
+   "title": "Senior Firmware Engineer, Amazon Robotics",
+   "company": "Amazon",
+   "location": "Munich, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/senior-edge-ai-robotics-engineer-f-m-d-at-aptiv-4488061502?trk=public_jobs_topcard-title": {
+   "title": "Senior Edge AI & Robotics Engineer (f-m-d)",
+   "company": "Aptiv",
+   "location": "Wuppertal, North Rhine-Westphalia, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/operations-engineer-robotics-at-node-robotics-4486236629?trk=public_jobs_topcard-title": {
+   "title": "Operations Engineer Robotics",
+   "company": "NODE Robotics",
+   "location": "Stuttgart, Baden-Württemberg, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/founding-mechatronics-engineer-%E2%80%93-robotic-hardware-design-for-manufacturing-at-ai-futures-4484654021?trk=public_jobs_topcard-title": {
+   "title": "Founding Mechatronics Engineer – Robotic Hardware & Design for Manufacturing",
+   "company": "AI Futures",
+   "location": "Munich, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/systemingenieur-humanoid-robotics-m-w-d-at-brose-group-4449490073?trk=public_jobs_topcard-title": {
+   "title": "Systemingenieur Humanoid Robotics (m/w/d)",
+   "company": "Brose Group",
+   "location": "Bamberg, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/robot-application-engineer-all-genders-at-goodbytz-4481698070?trk=public_jobs_topcard-title": {
+   "title": "Robot Application Engineer (all genders)",
+   "company": "goodBytz",
+   "location": "Hamburg, Hamburg, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/senior-mechatronik-design-engineer-%E2%80%93-halbleiter-automatisierung-w-m-div-at-bosch-4487305935?trk=public_jobs_topcard-title": {
+   "title": "Senior Mechatronik Design Engineer – Halbleiter-Automatisierung (w/m/div.)",
+   "company": "Bosch",
+   "location": "Schweinfurt, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/embedded-engineer-m-f-d-at-opensynergy-gmbh-4486041933?trk=public_jobs_topcard-title": {
+   "title": "Embedded Engineer (m/f/d)",
+   "company": "OpenSynergy GmbH",
+   "location": "Berlin, Berlin, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/applikationsingenieur-m-w-d-f%C3%BCr-roboterprogrammierung-in-der-nl-west-siegen-at-kuka-4486415077?trk=public_jobs_topcard-title": {
+   "title": "Applikationsingenieur (m/w/d) für Roboterprogrammierung in der NL West/Siegen",
+   "company": "KUKA",
+   "location": "Siegen, North Rhine-Westphalia, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/senior-application-engineer-robotics-automation-at-additae-digital-4488810157?trk=public_jobs_topcard-title": {
+   "title": "Senior Application Engineer - Robotics & Automation",
+   "company": "Additae Digital",
+   "location": "Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/robotics-engineer-at-thryve-4487511093?trk=public_jobs_topcard-title": {
+   "title": "Robotics Engineer",
+   "company": "THRYVE",
+   "location": "Munich, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/software-robotics-engineer-navigation-m-f-d-at-idealworks-4484327552?trk=public_jobs_topcard-title": {
+   "title": "Software Robotics Engineer - Navigation (m/f/d)",
+   "company": "Idealworks",
+   "location": "Munich, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/mechanical-engineer-m-f-d-robotics-at-agile-robots-se-4484685531?trk=public_jobs_topcard-title": {
+   "title": "Mechanical Engineer (m/f/d) Robotics",
+   "company": "Agile Robots SE",
+   "location": "Munich, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/senior-embedded-developer-munich-area-d-m-w-at-optimus-search-4473128622?trk=public_jobs_topcard-title": {
+   "title": "Senior Embedded Developer - Munich Area (d / m / w)",
+   "company": "Optimus Search",
+   "location": "Greater Munich Metropolitan Area",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/team-lead-system-software-ui-embedded-linux-ros-c%2B%2B-f-m-d-at-navvis-4452491411?trk=public_jobs_topcard-title": {
+   "title": "Team Lead, System Software/UI - Embedded Linux, ROS, C++ (F/M/D)",
+   "company": "NavVis",
+   "location": "Munich, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/expert-robotics-ai-f-m-div-at-bosch-4486719040?trk=public_jobs_topcard-title": {
+   "title": "Expert Robotics AI (f/m/div.)",
+   "company": "Bosch",
+   "location": "Renningen, Baden-Württemberg, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/field-robotics-systems-engineer-at-analog-devices-4485825374?trk=public_jobs_topcard-title": {
+   "title": "Field Robotics Systems Engineer",
+   "company": "Analog Devices",
+   "location": "Greater Munich Metropolitan Area",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/senior-navigation-and-localization-engineer-for-mobile-robotics-human-at-neura-robotics-4429592961?trk=public_jobs_topcard-title": {
+   "title": "Senior Navigation and Localization Engineer for Mobile Robotics (human)",
+   "company": "NEURA Robotics",
+   "location": "Riederich, Baden-Württemberg, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/entwicklungsingenieur-mechanik-mechatronik-m-w-d-at-smart-railway-technology-gmbh-germany-4484663489?trk=public_jobs_topcard-title": {
+   "title": "Entwicklungsingenieur Mechanik / Mechatronik (m/w/d)",
+   "company": "SMART Railway Technology GmbH, Germany",
+   "location": "Kassel, Hesse, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/wind-turbine-controls-engineer-m-f-d-at-ge-vernova-4478390125?trk=public_jobs_topcard-title": {
+   "title": "Wind Turbine Controls Engineer (m/f/d)",
+   "company": "GE Vernova",
+   "location": "Salzbergen, Lower Saxony, Germany",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/senior-systems-engineer-mechatronische-sonderanlagen-m-w-d-at-iabg-4379407462?trk=public_jobs_topcard-title": {
+   "title": "(Senior) Systems Engineer mechatronische Sonderanlagen (m/w/d)",
+   "company": "IABG",
+   "location": "Ottobrunn, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/entwicklungsingenieur-m-w-d-automatisierungstechnik-at-ets-didactic-gmbh-4488079083?trk=public_jobs_topcard-title": {
+   "title": "Entwicklungsingenieur (m/w/d) Automatisierungstechnik",
+   "company": "ETS DIDACTIC GMBH",
+   "location": "Kinding, Bavaria, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://de.linkedin.com/jobs/view/automation-engineer-m-w-d-at-konecranes-4486213717?trk=public_jobs_topcard-title": {
+   "title": "Automation Engineer (m/w/d)",
+   "company": "Konecranes",
+   "location": "Düsseldorf, North Rhine-Westphalia, Germany",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/projektabwickler-automatisierungs-und-elektrotechnik-w-m-x-at-beko-solutions-gmbh-4484931844?trk=public_jobs_topcard-title": {
+   "title": "Projektabwickler Automatisierungs- und Elektrotechnik (w/m/x)",
+   "company": "BEKO Solutions GmbH",
+   "location": "Linz, Upper Austria, Austria",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/rail-systems-engineer-m-w-d-at-brunel-4487279413?trk=public_jobs_topcard-title": {
+   "title": "Rail Systems Engineer (m/w/d)",
+   "company": "Brunel",
+   "location": "Vienna, Austria",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/senior-embedded-software-engineer-c%2B%2B-v2x-gnss-at-kapsch-group-4486611821?trk=public_jobs_topcard-title": {
+   "title": "Senior Embedded Software Engineer C++ - V2X & GNSS",
+   "company": "Kapsch Group",
+   "location": "Innere Stadt, Vienna, Austria",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/process-it-consultant-mobile-robotics-m-w-d-at-tgw-logistics-4477718081?trk=public_jobs_topcard-title": {
+   "title": "Process & IT Consultant Mobile Robotics (M/W/D)*",
+   "company": "TGW Logistics",
+   "location": "Wels, Upper Austria, Austria",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/senior-embedded-firmware-developer-at-sbg-associates-4484675556?trk=public_jobs_topcard-title": {
+   "title": "Senior Embedded Firmware Developer",
+   "company": "SBG Associates",
+   "location": "Vienna, Austria",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/systemintegrator-in-m-w-d-automatisierung-at-ivm-technical-consultants-4485018816?trk=public_jobs_topcard-title": {
+   "title": "Systemintegrator*in (m/w/d) - Automatisierung",
+   "company": "IVM Technical Consultants",
+   "location": "Linz, Upper Austria, Austria",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/senior-systems-engineer-m-f-d-vienna-at-terma-group-4486056517?trk=public_jobs_topcard-title": {
+   "title": "Senior Systems Engineer (m/f/d), Vienna",
+   "company": "Terma Group",
+   "location": "Vienna, Vienna, Austria",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/projektabwickler-automatisierungstechnik-w-m-x-at-beko-solutions-gmbh-4484931846?trk=public_jobs_topcard-title": {
+   "title": "Projektabwickler Automatisierungstechnik (w/m/x)",
+   "company": "BEKO Solutions GmbH",
+   "location": "Linz, Upper Austria, Austria",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/computational-physicist-or-mathematician-camera-geometry-slam-all-genders-%E2%80%93-the-geometry-wizard-at-viewpointsystem-4486226717?trk=public_jobs_topcard-title": {
+   "title": "Computational Physicist or Mathematician, Camera Geometry & SLAM (all genders) – The Geometry Wizard",
+   "company": "Viewpointsystem",
+   "location": "Vienna, Vienna, Austria",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/mechatroniker-mechatronikerin-m-w-d-at-philips-4443851859?trk=public_jobs_topcard-title": {
+   "title": "Mechatroniker / Mechatronikerin (m/w/d)",
+   "company": "Philips",
+   "location": "Klagenfurt, Carinthia, Austria",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/automation-engineer-at-g2-recruitment-4487295526?trk=public_jobs_topcard-title": {
+   "title": "Automation Engineer",
+   "company": "g2 Recruitment",
+   "location": "Upper Austria, Austria",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/product-specialist-%E2%80%93-automation-robotics-m-f-x-at-anton-paar-4485762001?trk=public_jobs_topcard-title": {
+   "title": "Product Specialist – Automation & Robotics (m/f/x)",
+   "company": "Anton Paar",
+   "location": "Lieboch, Styria, Austria",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/field-application-engineer-embedded-systems-at-codico-gmbh-4463872956?trk=public_jobs_topcard-title": {
+   "title": "Field Application Engineer Embedded Systems",
+   "company": "CODICO GmbH",
+   "location": "Perchtoldsdorf, Lower Austria, Austria",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://at.linkedin.com/jobs/view/senior-integration-ai-automation-engineer-all-genders-at-ims-nanofabrication-4487236737?trk=public_jobs_topcard-title": {
+   "title": "Senior Integration & AI Automation Engineer (all genders)",
+   "company": "IMS Nanofabrication",
+   "location": "Brunn am Gebirge, Lower Austria, Austria",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/automation-engineer-at-agap2-switzerland-4484313716?trk=public_jobs_topcard-title": {
+   "title": "Automation Engineer",
+   "company": "agap2 Switzerland",
+   "location": "Bern, Berne, Switzerland",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/robotics-automation-engineer-w-m-d-80-100%25-at-kistler-group-4488139752?trk=public_jobs_topcard-title": {
+   "title": "Robotics & Automation Engineer (w/m/d) 80-100%",
+   "company": "Kistler Group",
+   "location": "Winterthur, Zurich, Switzerland",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/robot-platform-engineer-humanoid-human-at-neura-robotics-4440515522?trk=public_jobs_topcard-title": {
+   "title": "Robot Platform Engineer - Humanoid (human)",
+   "company": "NEURA Robotics",
+   "location": "Zurich, Zurich, Switzerland",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/senior-robotics-software-engineer-z%C3%BCrich-100%25-at-loki-robotics-4486406236?trk=public_jobs_topcard-title": {
+   "title": "Senior Robotics Software Engineer (Zürich, 100%)",
+   "company": "Loki Robotics",
+   "location": "Zurich, Zurich, Switzerland",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/slam-software-engineer-rivr-at-rivr-4487503130?trk=public_jobs_topcard-title": {
+   "title": "SLAM Software Engineer, RIVR",
+   "company": "RIVR",
+   "location": "Zurich, Zurich, Switzerland",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/automation-engineer-gmp-pharma-biotech-at-agap2-switzerland-4485055675?trk=public_jobs_topcard-title": {
+   "title": "Automation Engineer - GMP Pharma & Biotech",
+   "company": "agap2 Switzerland",
+   "location": "Basel, Basel, Switzerland",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/robotics-electronics-industrialization-certification-engineer-at-flybotix-4486705012?trk=public_jobs_topcard-title": {
+   "title": "Robotics Electronics Industrialization & Certification Engineer",
+   "company": "Flybotix",
+   "location": "Renens, Vaud, Switzerland",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/junior-automation-controls-engineer-be-ics-acs-2026-247-grae-at-cern-4486022944?trk=public_jobs_topcard-title": {
+   "title": "Junior Automation & Controls Engineer (BE-ICS-ACS-2026-247-GRAE)",
+   "company": "CERN",
+   "location": "Geneva, Geneva, Switzerland",
+   "source": "LinkedIn",
+   "fit": "HIGH",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/senior-systems-engineer-100%25-at-entoothiast-ag-4487281254?trk=public_jobs_topcard-title": {
+   "title": "Senior Systems Engineer (100%)",
+   "company": "entoothiast ag",
+   "location": "Zurich, Zurich, Switzerland",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/electrical-systems-engineer-railway-at-ikos-group-4486188935?trk=public_jobs_topcard-title": {
+   "title": "Electrical Systems Engineer - Railway",
+   "company": "IKOS GROUP",
+   "location": "Zurich, Switzerland",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
+  },
+  "https://ch.linkedin.com/jobs/view/senior-automation-engineer-at-pm-group-4384069560?trk=public_jobs_topcard-title": {
+   "title": "Senior Automation Engineer",
+   "company": "PM Group",
+   "location": "Basel, Basel, Switzerland",
+   "source": "LinkedIn",
+   "fit": "MEDIUM",
+   "first_seen": "2026-11-09",
+   "status": "new"
   }
  }
 }
